@@ -37,7 +37,7 @@ Our enterprise frameworks are officially published and archived in peer-reviewed
 <table>
   <tr>
     <td width="200" align="center" valign="top">
-      <a href="https://credly.com" target="_blank">
+      <a href="[https://credly.com](https://www.credly.com/badges/44737d16-1d7e-4376-b552-0f2e9ed945c3/public_url)" target="_blank">
         <img src="opswat-intro-to-critical-infrastructure-pro.png" width="150" alt="OPSWAT ICIP Badge">
       </a>
       <br><br>
@@ -47,7 +47,7 @@ Our enterprise frameworks are officially published and archived in peer-reviewed
       <h4>OPSWAT Introduction to Critical Infrastructure Protection (ICIP)</h4>
       <p><strong>Issuing Organization:</strong> OPSWAT • Issued June 2026</p>
       <p>Validates specialized industrial domain knowledge in securing Operational Technology (OT), Industrial Control Systems (ICS), and critical infrastructural digital assets against modern cyber threats.</p>
-      <p>🔗 <a href="https://credly.com" target="_blank">View Public Credly Verification Link</a></p>
+      <p>🔗 <a href="[https://credly.com](https://www.credly.com/badges/44737d16-1d7e-4376-b552-0f2e9ed945c3/public_url)" target="_blank">View Public Credly Verification Link</a></p>
     </td>
   </tr>
 </table>
