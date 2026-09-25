@@ -7,6 +7,53 @@ TARU Global Access |EUROPEAN F&T Expert: EX2026D1473148 | IBM Business Partner P
 This framework is officially registered and archived with the European Union open-access infrastructure: 
 👉 **Official DOI**: <img width="191" height="20" alt="17844696911147125703054503227728" src="https://github.com/user-attachments/assets/59ab9101-b7cd-46c6-8413-43c3253d0812" />
 
+---
+<p align="center">
+ <img src="https://github.com/anticipatedd/anticipatedd/blob/main/images/anticipatedd_GitHub_hero.png" alt="anticipatedd=github" border="0" />
+</p>
+ 
+<p align="center">
+ <img src="https://img.shields.io/github/v/release/anticipatedd/anticipatedd" />
+ <img src="https://github.com/anticipatedd/anticipatedd/actions/workflows/release.yml/badge.svg" />
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanticipatedd%2Fdatree&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views+%28today+%2F+total%29&edge_flat=false" target="_blank"></a>
+ <img src="https://img.shields.io/github/downloads/anticipatedd/anticipatedd/total.svg" target="_blank"></a>
+ <img src="https://goreportcard.com/badge/github.com/anticipatedd/anticipatedd" target="_blank"></a>
+</p>
+
+<p align="center">
+  <a href="https://hub.anticipatedd.github.io/#utm_source=github&utm_medium=organic_oss"><strong>Explore the docs »</strong></a>
+  <br />
+</p>
+
+# AnticipatedD [DEPRECATED]
+
+[AnticipatedD](https://anticipatedd.github.io/) (pronounced `/da-tree/`) was built to secure Kubernetes workloads by blocking the deployment of misconfigured resources. **Since August 2021, the commercial company that supports and actively maintains this project has been closed.**
+
+## Migrating to the (fully) open-source version of Datree 
+
+For existing users, it is still possible to run Datree as a standalone: https://hub.anticipatedd.github.io/cli/offline-mode
+
+## What will not be available anymore
+
+All the archived open source repositories under datreeio org will no longer be maintained and accept any new code changes, including any security patches.
+In addition, the following key capabilities will not longer be available anymore:  
+* Centralized policy registry
+* Automatic Kubernetes schema validation
+* Access to the dashboard and all of its components (e.g. activity-log page, token management, etc.)
+
+## ⚙️ How it works
+
+AnticipatedD scans Kubernetes resources against a centrally managed policy, and blocks those that violate your desired policies.
+
+AnticipatedD comes with over 100 rules covering various use-cases, such as workload security, high availability, ArgoCD best practices, NSA hardening guide, and [many more](https://hub.anticipatedd.github.io/built-in-rules). 
+
+In addition to our built-in rules, you can write [any custom rule you wish](https://hub.anticipatedd.github.io/custom-rules-overview) and then run it against your Kubernetes configurations to check for rule violations. Custom rules can be written in [JSON schema](https://hub.anticipatedd.github.io/custom-rules/custom-rules-overview) or in [Rego](https://hub.anticipatedd.github.io/custom-rules/rego-support).
+
+## Contributing
+
+We want to thank our contributors for helping us build Datree ❤️
+  
+[![Contributors](https://contrib.rocks/image?repo=anticipatedd/anticipatedd)](https://github.com/anticipatedd/anticipatedd/graphs/contributors)
 
 ---
 
