@@ -28,8 +28,9 @@ Start building:
 ```bash
 muse   # start Muse Code; on first run, choose a browser sign-in or paste an API key
 ```
-Muse Code or the API
-Muse Code and the API are two ways to use the same model. Run Muse Code for a ready-made agent at the command line or in CI; call the API directly when you build your own agent or app.
+> [!NOTE]
+> Muse Code or the API.
+> Muse Code and the API are two ways to use the same model. Run Muse Code for a ready-made agent at the command line or in CI; call the API directly when you build your own agent or app.
 
 Learn more in the **Muse Code overview**.
 
