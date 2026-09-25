@@ -15,7 +15,7 @@ This framework is officially registered and archived with the European Union ope
 <p align="center">
  <img src="https://img.shields.io/github/v/release/anticipatedd/anticipatedd" />
  <img src="https://github.com/anticipatedd/anticipatedd/actions/workflows/release.yml/badge.svg" />
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanticipatedd%2Fdatree&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views+%28today+%2F+total%29&edge_flat=false" target="_blank"></a>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanticipatedd%2Fanticipatedd&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views+%28today+%2F+total%29&edge_flat=false" target="_blank"></a>
  <img src="https://img.shields.io/github/downloads/anticipatedd/anticipatedd/total.svg" target="_blank"></a>
  <img src="https://goreportcard.com/badge/github.com/anticipatedd/anticipatedd" target="_blank"></a>
 </p>
